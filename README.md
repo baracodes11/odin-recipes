@@ -1,1 +1,1 @@
-# odin-recipes
+A website displaying my favourite recipes
